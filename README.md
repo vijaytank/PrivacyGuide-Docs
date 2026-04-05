@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="assets/listing/feature_graphic.png" width="800" alt="Privacy Guide Feature Graphic">
-  <br>
-  <img src="assets/listing/app_icon.png" width="128" height="128" alt="Privacy Guide Logo">
   <h3>Your Personal Android Privacy Assistant</h3>
   <p>Transparency. Education. Control.</p>
 </div>
