@@ -49,9 +49,6 @@ This repository (`PrivacyGuide-Docs`) houses the public-facing documentation, st
 
 The Privacy Guide app is currently in stable release development. 
 
-> [!NOTE]
-> This repository is for **documentation only**. No source code or logic is stored here to ensure a clean, public-facing listing.
-
 ## Contact
 
 For support or business inquiries, reach out to us at:
