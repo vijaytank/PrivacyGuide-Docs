@@ -33,6 +33,13 @@ Privacy Guide uses official Android APIs (AppOpsManager) to track permission usa
 
 ---
 
+## Marketing Assets
+
+The following high-resolution assets are available in `assets/listing/`:
+
+- **App Icon**: `app_icon.png` (512x512, PNG, Transparent).
+- **Feature Graphic**: `feature_graphic.png` (1024x500, PNG).
+
 ## Technical Details
 
 - **Minimum SDK**: 26 (Android 8.0)
